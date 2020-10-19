@@ -1,5 +1,9 @@
 # Oil
 
+![](Crude_Storage_Images/Crude Prices.png)
+
+![](Crude_Storage_Images/Crude Prices.png)
+
 # Project Overivew
 * Visualize key factors in the oil and gas industry.
  
@@ -20,4 +24,4 @@
 * The number of DUCs have risen exponentially over the past two years. There was a decrease in the number of DUCs at the end of 2019 continuing into 2020. The majority of DUCs are in the Permian Basin and can be quickly completed to make up for any lost production assuming prices rise again. This will also keep a lid on prices and provide companies with much needed cash flow.
  
 
-![](Crude_Storage_Images/Crude And Gasoline Storage API.png)
+![](Crude_Storage_Images/Crude Prices.png)
