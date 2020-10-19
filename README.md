@@ -1,4 +1,8 @@
-![](Crude_Storage_Images/depositphotos_33697745-stock-photo-oil-pumps-oil-industry-equipment.jpg)
+
+
+<p align="center">
+  <img src="Crude_Storage_Images/depositphotos_33697745-stock-photo-oil-pumps-oil-industry-equipment.jpg" width="850">
+</p>
 
 # Purpose
 * Visualize key factors affecting prices in the oil and gas industry.
@@ -10,6 +14,14 @@
   
 # Summary
 * Crude storage peaked in 2020 as prices dipped below zero and bottomed out at -$40/BBL before rising up to $40/BBL. Inventories of both crude and gasoline have been dropping steadily but prices have traded within $2 for months. Floating storage in the US and China has likely dropped due to the available storage on land in America and with China opening its ports after the virus allowing shippers to unload their VLCCs. Even though storage has been dropping steadily, traders have not allowed the price to flucuate more than $2 a barrel in months.
+
+
+<p align="center">
+  <img src="Crude_Storage_Images/Crude_Storage_Vs_Crude_Prices_For_2020.png.jpg" width="500">
+</p>
+
+
+
 
 ![](Crude_Storage_Images/Crude_Storage_Vs_Crude_Prices_For_2020.png)
 
