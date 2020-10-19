@@ -55,4 +55,11 @@ The graph above shows how the number of DUCs has risen in the Permian Basin vs t
 
 
 
+<p> These are a few articles that I have written:
+* https://www.linkedin.com/pulse/election-impact-duc-inventory-shawn-jamal/?trackingId=MJYml0qeR%2F%2Bt0hue99YQsg%3D%3D
+* https://www.linkedin.com/pulse/chinas-natural-gas-imports-shawn-jamal/?trackingId=li0Zy0L7swttzD33jILFDw%3D%3D
+* https://www.linkedin.com/pulse/price-impacts-from-crude-storage-shawn-jamal/?trackingId=a%2FoH27YmqkNMbJIrQEBHQQ%3D%3D
+ 
+ 
+
 
