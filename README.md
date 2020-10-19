@@ -1,6 +1,6 @@
 
-# Project Overivew
-* Visualize key factors in the oil and gas industry.
+# Purpose
+* Visualize key factors affecting prices in the oil and gas industry.
  
 
 # Resources 
