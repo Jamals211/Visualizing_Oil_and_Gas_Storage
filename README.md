@@ -37,6 +37,7 @@ The graph above shows how natural gas exports have risen over the years. Korea, 
 
 ![]("Crude_Storage_Images/Crude_Storage_Vs_Crude_Prices.png)
 
+
 The graph above shows how crude and gasoline storage ebb and flow over different years. In most years, crude storage peaks at the beginning of the year when demand is low and begins to decline in March as refiners buy more crude to refine into gasoline. This continues until the summer driving season is over when crude stocks begin to rise in October.
 
 
