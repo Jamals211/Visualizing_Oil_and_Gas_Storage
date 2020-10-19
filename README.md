@@ -1,3 +1,4 @@
+![](Crude_Storage_Images/depositphotos_33697745-stock-photo-oil-pumps-oil-industry-equipment.jpg)
 
 # Purpose
 * Visualize key factors affecting prices in the oil and gas industry.
