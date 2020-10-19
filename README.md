@@ -1,3 +1,6 @@
+--![](Crude_Storage_Images/Crude_Storage_Vs_Crude_Prices.png)
+
+
 # Oil
 
 ![](Crude_Storage_Images/Crude Prices.png)
@@ -14,6 +17,8 @@
   
 # Summary
 * Crude storage peaked in 2020 as prices dipped below zero and bottomed out at -$40/BBL before rising up to $40/BBL. Inventories of both crude and gasoline have been dropping steadily but prices have traded within $2 for months. Floating storage in the US and China has likely dropped due to the available storage on land in America and China opening its ports after the virus. Even though storage has been dropping steadily, traders have not allowed the price to flucuate more than $2 a barrel in months.
+
+![](Crude_Storage_Images/Crude_Storage_Vs_Crude_Prices.png)
 
 * Crude storage has decline 50 MMBBLs and gasoline storage has declined 30 MMBBLs since April of 2020. While inventories have steadily declined, the price of crude has staggnated at $40/BBL and have remained steady. Crude will need to drop another 100 MMBBLs for prices to rise to the $60 to $70 range and at this time OPEC+ will likely increase supply to balance the market. Gasoline storage will drop until November when demand goes down and refiners begin to buy more crude.
 
