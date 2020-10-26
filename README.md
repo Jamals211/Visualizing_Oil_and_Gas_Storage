@@ -36,7 +36,7 @@ https://www.spglobal.com/platts/en/market-insights/latest-news/natural-gas/08262
 </p>
 
 The graph above shows how crude and gasoline stocks fall while prices remaining at $40/BBL. <p>
-Price Impacts From Cude Storage <p>
+<b> Price Impacts From Cude Storage <b><p>
 https://www.linkedin.com/pulse/price-impacts-from-crude-storage-shawn-jamal/?trackingId=a%2FoH27YmqkNMbJIrQEBHQQ%3D%3D <p>
 
 * Crude storage has decline 50 MMBBLs and gasoline storage has declined 30 MMBBLs since April of 2020. While inventories have steadily declined, the price of crude has staggnated at $40/BBL and have remained steady. Crude will need to drop another 100 MMBBLs for prices to rise to the $60 to $70 range and at this time OPEC+ will likely increase supply to balance the market. Gasoline storage will drop until November when demand goes down and refiners begin to buy more crude.
@@ -57,7 +57,7 @@ https://www.linkedin.com/pulse/price-impacts-from-crude-storage-shawn-jamal/?tra
 
 
 The graph above shows how natural gas exports have risen over the years. Korea, China, and Japan are the biggest natural gas imports for the US. <p>
-China's Natural Gas Imports <p>
+<b>China's Natural Gas Imports <b> <p>
 https://www.linkedin.com/pulse/chinas-natural-gas-imports-shawn-jamal/?trackingId=li0Zy0L7swttzD33jILFDw%3D%3D <p>
 
 
@@ -86,7 +86,7 @@ The pie chart above shows the percent of DUCs in each region in the US.
 
 The graph above shows how the number of DUCs has risen in the Permian Basin vs the next two biggest basins. <p>
   
-Election Impact On The DUC Inventory In America <p>
+<b> Election Impact On The DUC Inventory In America <b> <p>
 https://www.linkedin.com/pulse/election-impact-duc-inventory-shawn-jamal/?trackingId=MJYml0qeR%2F%2Bt0hue99YQsg%3D%3D <p>
 
 
