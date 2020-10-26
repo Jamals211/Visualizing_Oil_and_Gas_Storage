@@ -11,19 +11,19 @@
 # Resources 
 * Data Source: EIA Website <p>
   https://www.eia.gov/petroleum/weekly/gasoline.php#tabs-gasoline-demand-finished
- * ICIS Pipeline Info 
+ * ICIS Pipeline Info <p>
 https://www.icis.com/explore/resources/news/2020/04/30/10503185/gif-inside-story-power-of-siberia-2-s-new-route-makes-russian-gas-supplies-to-china-more-feasible
  
-* Reuter's Natural Gas Pipeline Projects in China
+* Reuter's Natural Gas Pipeline Projects in China<p>
 https://www.reuters.com/article/us-china-naturalgas-pipeline/china-starts-building-southern-part-of-china-russia-east-gas-pipeline-idUSKCN24T0VU
 
-* Oilprice.com's Analysis On LNG Prices in the US vs Asia
+* Oilprice.com's Analysis On LNG Prices in the US vs Asia<p>
 https://oilprice.com/Energy/Crude-Oil/Asian-LNG-Prices-Are-Way-To-Low-For-US-Exporters.html
 
-* Reuter's Analysis of LNG Demand In Asia
+* Reuter's Analysis of LNG Demand In Asia<p>
 https://www.reuters.com/article/china-japan-lng/china-could-top-japans-lng-imports-in-2020-as-coronavirus-cuts-demand-idUSL4N2DT1I0
 
-* SPG Global's Analysis Of Current Market Trends in Asia
+* SPG Global's Analysis Of Current Market Trends in Asia<p>
 https://www.spglobal.com/platts/en/market-insights/latest-news/natural-gas/082620-china-data-july-lng-imports-rise-3-on-year-drop-13-on-month-to-5-mil-mt
   
   
@@ -83,10 +83,13 @@ The pie chart above shows the percent of DUCs in each region in the US.
 <p align="center">
   <img src="DUC_Images/Line_Graph_Permian_EF_Bakken.png" width="700">
 </p>
+
+The graph above shows how the number of DUCs has risen in the Permian Basin vs the next two biggest basins. <p>
+  
 Election Impact On The DUC Inventory In America <p>
 https://www.linkedin.com/pulse/election-impact-duc-inventory-shawn-jamal/?trackingId=MJYml0qeR%2F%2Bt0hue99YQsg%3D%3D <p>
 
-The graph above shows how the number of DUCs has risen in the Permian Basin vs the next two biggest basins.
+
 
  
  
