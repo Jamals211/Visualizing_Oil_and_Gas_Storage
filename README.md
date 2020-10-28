@@ -11,24 +11,24 @@
 # Resources 
 * Data Source: EIA Website <p>
   https://www.eia.gov/petroleum/weekly/gasoline.php#tabs-gasoline-demand-finished
- * ICIS Pipeline Info <p>
+ * ICIS Pipeline Info On Siberia <p>
 https://www.icis.com/explore/resources/news/2020/04/30/10503185/gif-inside-story-power-of-siberia-2-s-new-route-makes-russian-gas-supplies-to-china-more-feasible
  
-* Reuter's Natural Gas Pipeline Projects in China<p>
+* China's Natural Gas Infrastructure  <p>
 https://www.reuters.com/article/us-china-naturalgas-pipeline/china-starts-building-southern-part-of-china-russia-east-gas-pipeline-idUSKCN24T0VU
 
-* Oilprice.com's Analysis On LNG Prices in the US vs Asia<p>
+* Export Capacity And Natural Gas Infrastructure <p>
 https://oilprice.com/Energy/Crude-Oil/Asian-LNG-Prices-Are-Way-To-Low-For-US-Exporters.html
 
-* Reuter's Analysis of LNG Demand In Asia<p>
+* Future Asian Consumption Of Natural Gas <p>
 https://www.reuters.com/article/china-japan-lng/china-could-top-japans-lng-imports-in-2020-as-coronavirus-cuts-demand-idUSL4N2DT1I0
 
-* SPG Global's Analysis Of Current Market Trends in Asia<p>
+* China's Natural Gas Imports <p>
 https://www.spglobal.com/platts/en/market-insights/latest-news/natural-gas/082620-china-data-july-lng-imports-rise-3-on-year-drop-13-on-month-to-5-mil-mt
   
   
 # Summary
-* Crude storage peaked in 2020 as prices dipped below zero and bottomed out at -$40/BBL before rising up to $40/BBL. Inventories of both crude and gasoline have been dropping steadily but prices have traded within $2 for months. Floating storage in the US and China has likely dropped due to the available storage on land in America and with China opening its ports after the virus allowing shippers to unload their VLCCs. Even though storage has been dropping steadily, traders have not allowed the price to flucuate more than $2 a barrel in months.
+* Crude storage peaked in 2020 as prices dipped below zero and bottomed out at -$40/BBL before rising up to $40/BBL. Inventories of both crude and gasoline have been dropping steadily but prices have traded within $2 for months. Floating storage in the US and China has likely dropped due to the available storage on land in America and with China opening its ports after the virus allowing shippers to unload their VLCCs. Even though storage has been dropping steadily, traders have not allowed the price to fluctuate more than $2 a barrel in months.
 
 
 <p align="center">
@@ -39,7 +39,7 @@ The graph above shows how crude and gasoline stocks fall while prices remaining 
 <b> Price Impacts From Cude Storage <b><p>
 https://www.linkedin.com/pulse/price-impacts-from-crude-storage-shawn-jamal/?trackingId=a%2FoH27YmqkNMbJIrQEBHQQ%3D%3D <p>
 
-* Crude storage has decline 50 MMBBLs and gasoline storage has declined 30 MMBBLs since April of 2020. While inventories have steadily declined, the price of crude has staggnated at $40/BBL and have remained steady. Crude will need to drop another 100 MMBBLs for prices to rise to the $60 to $70 range and at this time OPEC+ will likely increase supply to balance the market. Gasoline storage will drop until November when demand goes down and refiners begin to buy more crude.
+* Crude storage has decline 50 MMBBLs and gasoline storage has declined 30 MMBBLs since April of 2020. While inventories have steadily declined, the price of crude has stagnated  at $40/BBL and have remained steady. Crude will need to drop another 100 MMBBLs for prices to rise to the $60 to $70 range and at this time OPEC+ will likely increase supply to balance the market. Gasoline storage will drop until November when demand goes down and refiners begin to buy more crude.
 
 
 
@@ -49,7 +49,7 @@ https://www.linkedin.com/pulse/price-impacts-from-crude-storage-shawn-jamal/?tra
 
 
 
-* Demand for crude is expected to remain low in the winter after the summer driving months are over. Demand for natural gas rises in the winter due to the need for heating. Due to recent exports of natural gas, a decrease in the Appalachia region, and current political problems impacting the drilling in Wyoming, it is expected that natural gas prices will begin to rise in the winter.
+* Demand for crude is expected to remain low in the winter after the summer driving months are over. Demand for natural gas rises in the winter due to the need for heating. Due to recent exports of natural gas, a decrease in the Appalachian region, and current political problems impacting the drilling in Wyoming, it is expected that natural gas prices will begin to rise in the winter.
 
 <p align="center">
   <img src="Imports_By_Country_Images/Korean_Gas_Imports.png" width="700">
