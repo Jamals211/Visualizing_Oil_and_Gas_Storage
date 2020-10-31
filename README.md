@@ -26,6 +26,9 @@ https://www.reuters.com/article/china-japan-lng/china-could-top-japans-lng-impor
 * China's Natural Gas Imports <p>
 https://www.spglobal.com/platts/en/market-insights/latest-news/natural-gas/082620-china-data-july-lng-imports-rise-3-on-year-drop-13-on-month-to-5-mil-mt
   
+* Offshore Storage Of Diesel <p>
+https://www.reuters.com/article/us-asia-diesel-floating/traders-scout-for-supertankers-to-store-diesel-as-virus-spreads-idUSKBN27F1GQ
+  
   
 # Summary
 * Crude storage peaked in 2020 as prices dipped below zero and bottomed out at -$40/BBL before rising up to $40/BBL. Inventories of both crude and gasoline have been dropping steadily but prices have traded within $2 for months. Floating storage in the US and China has likely dropped due to the available storage on land in America and with China opening its ports after the virus allowing shippers to unload their VLCCs. Even though storage has been dropping steadily, traders have not allowed the price to fluctuate more than $2 a barrel in months.
@@ -88,6 +91,21 @@ The graph above shows how the number of DUCs has risen in the Permian Basin vs t
   
 <b> Election Impact On The DUC Inventory In America <b> <p>
 https://www.linkedin.com/pulse/election-impact-duc-inventory-shawn-jamal/?trackingId=MJYml0qeR%2F%2Bt0hue99YQsg%3D%3D <p>
+  
+# Future Market Trends
+Demand for crude oil declines in the winter after the summer driving season is over. This cyclical event is compounded with the return of Covid-19 and lockdowns impacting the futures market. WTI dropped $3 over a slight build in inventories which indicates that oil prices will be depressed throughout the winter. OPEC+ has indicated that they will continue to pare back cuts to approximately 5.8 MMBPD on January 1st which is unlikely considering that oil prices will likely fall further over the winter unless there is a supply disruption. The organization has flooded the market in 2018, 2019, and again in 2020 so there is no reason why the organization will not do it again in the spring of 2021 when prices begin to rise. <p>
+
+The election is too close to call and it is unclear what will happen after the election. Even if President Trump wins re-election, Democrats can still prevent oil and gas from being extracted through state and local laws penalizing fracing or banning it outright. If Democrats win, they could drive up the price of oil by decreasing supply, returning the US to a major importer. The Democrats could also impact oil demand by banning gas powered vehicles throughout the US. <p>
+  
+Natural gas demand will increase due to exports to Asia and the declining well count in the Appalachian and Barnet plays. Higher prices in the US will keep a lid on exports but China's growing consumption of natural gas and their rift with Australia will buoy exports. <p>
+  
+The price for WTI will average below $50/BBL for 2021 and will likely be below $45/BBL for most of the year. Prices for gasoline, diesel, jet fuel and bunker fuel will be uneven. With the lockdown, gasoline will be in more demand and build ups of diesel and jet fuel will require more storage until the summer. Natural gas may fluctuate, especially if there is a cold winter in 2020/2021 but prices will rise in the long term. <p>
+
+
+
+
+
+
 
 
 
