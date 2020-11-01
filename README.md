@@ -58,12 +58,13 @@ Due to recent exports of natural gas, a decrease of drilling in the Appalachian 
 </p>
 
 
-The graph above shows how natural gas exports have risen over the years. Korea, China, and Japan are the biggest natural gas imports for the US. <p>
+The graph above shows how natural gas exports have risen over the years. Korea, China, and Japan are the biggest natural gas imports for the US. China has refrained from buying vast amounts of natural gas due to trade conflicts with the US and Turkey has been drilling on their coastal boarder with Greece trying to develop gas fields in the Mediteranian. China has begun to allow more natural gas imports into the country and the link below makes an indepth analysis of their future market.<p>
+  
 <b>China's Natural Gas Imports <b> <p>
 https://www.linkedin.com/pulse/chinas-natural-gas-imports-shawn-jamal/?trackingId=li0Zy0L7swttzD33jILFDw%3D%3D <p>
 
 
-* OPEC+ will continue to curb supply until 2021 when they will see prices begin to rise. If prices rise, the organization will likely reduce cuts and flood the market like they have done in 2018, 2019, and 2020. 
+OPEC+ will continue to curb supply until 2021 when they will see prices begin to rise. If prices rise, the organization will likely reduce cuts and flood the market like they have done in 2018, 2019, and 2020. The organization has indicated that it release more crude oil on January 1st but this is unlikely due to low prices. They will likely reduce cuts to approximately 6MMBPD in the spring as crude prices begin to rise.<p>
 
 <p align="center">
   <img src="Crude_Storage_Images/Crude_Storage_Vs_Crude_Prices.png" width="700">
@@ -74,7 +75,7 @@ The graph above shows how crude and gasoline storage ebb and flow over different
 
 
 
-* The number of DUCs have risen exponentially over the past two years. There was a decrease in the number of DUCs at the end of 2019 continuing into 2020. The majority of DUCs are in the Permian Basin and can be quickly completed to make up for any lost production assuming prices rise again. This will also keep a lid on prices and provide companies with much needed cash flow.
+The number of DUCs have risen exponentially over the past two years. There was a decrease in the number of DUCs at the end of 2019 continuing into 2020. The majority of DUCs are in the Permian Basin and can be quickly completed to make up for any lost production assuming prices rise again. This will also keep a lid on prices and provide companies with much needed cash flow.
 
 <p align="center">
   <img src="DUC_Images/Pie_Chart_DUCs.png" width="400">
