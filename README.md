@@ -74,19 +74,19 @@ OPEC+ will continue to curb supply until 2021 when they will see prices begin to
 The graph above shows how crude storage has impacted price over several years. In most years, crude storage peaks at the beginning of the year when demand is low and begins to decline in March as refiners buy more crude to refine into gasoline. This continues until the summer driving season is over when crude stocks begin to rise in October. This year crude storage peaked in the middle of the year and has declined until the end of the year. Prices dropped $3 per barrel after a modest rise of crude storage before recovering to approximately $40/BBL. If this is any indication of future market trends then we will see a downward pressure on prices after the winter due to growing crude supplies.
 
 
-The number of DUCs have risen exponentially over the past two years. There was a decrease in the number of DUCs at the end of 2019 continuing into 2020. The majority of DUCs are in the Permian Basin and can be quickly completed to make up for any lost production assuming prices rise again. This will also keep a lid on prices and provide companies with much needed cash flow.
+The number of DUCs have risen exponentially over the past two years but decreasing at the end of 2019 as prices were expected to rise. The majority of DUCs are in the Permian Basin and can be quickly completed to make up for any lost production as prices rise. DUCs can also provide much needed cash flow for companies due to the drilling already being completed.
 
 <p align="center">
   <img src="DUC_Images/Pie_Chart_DUCs.png" width="400">
 </p>
 
-The pie chart above shows the percent of DUCs in each region in the US.
+The pie chart above shows the percent of DUCs in each region in the US. The Permian Basin has the lion's share of DUCs with the Eagle Ford and the Bakken making up the next biggest shale plays.
 
 <p align="center">
   <img src="DUC_Images/Line_Graph_Permian_EF_Bakken.png" width="700">
 </p>
 
-The graph above shows how the number of DUCs has risen in the Permian Basin vs the next two biggest basins. <p>
+The number of DUCs in the Permian took off in 2015 as prices dropped from historic highs and has remained constant in the next big shale plays. If history is any indication then DUCs will continue to rise until prices begin to climb. One thing that will keep a lid on the number of DUCs around the country is that oil companies do not have as many long term contracts with drilling companies allowing them to break current contracts and drop rigs. This is one of the reason why the rig count has hit historic lows around the country. For more on DUCs visit the link below.<p>
   
 <b> Election Impact On The DUC Inventory In America <b> <p>
 https://www.linkedin.com/pulse/election-impact-duc-inventory-shawn-jamal/?trackingId=MJYml0qeR%2F%2Bt0hue99YQsg%3D%3D <p>
