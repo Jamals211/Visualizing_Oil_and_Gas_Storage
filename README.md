@@ -71,8 +71,7 @@ OPEC+ will continue to curb supply until 2021 when they will see prices begin to
 </p>
 
 
-The graph above shows how crude and gasoline storage ebb and flow over different years. In most years, crude storage peaks at the beginning of the year when demand is low and begins to decline in March as refiners buy more crude to refine into gasoline. This continues until the summer driving season is over when crude stocks begin to rise in October.
-
+The graph above shows how crude storage has impacted price over several years. In most years, crude storage peaks at the beginning of the year when demand is low and begins to decline in March as refiners buy more crude to refine into gasoline. This continues until the summer driving season is over when crude stocks begin to rise in October. This year crude storage peaked in the middle of the year and has declined until the end of the year. Prices dropped $3 per barrel after a modest rise of crude storage before recovering to approximately $40/BBL. If this is any indication of future market trends then we will see a downward pressure on prices after the winter due to growing crude supplies.
 
 
 The number of DUCs have risen exponentially over the past two years. There was a decrease in the number of DUCs at the end of 2019 continuing into 2020. The majority of DUCs are in the Permian Basin and can be quickly completed to make up for any lost production assuming prices rise again. This will also keep a lid on prices and provide companies with much needed cash flow.
