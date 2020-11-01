@@ -47,7 +47,7 @@ Crude storage peaked in 2020 as prices dipped below zero and bottomed out at -$4
 <p align="center">
   <img src="Crude_Storage_Images/Crude_Storage_Vs_Crude_Prices_For_2020.png" width="700">
 </p>
-The graph above shows the relationship crude oil and gasoline have with WTI prices. Prices have been stuck near $40/BBL since prices bounced back after the April crash. <p>
+The graph above shows the relationship crude oil and gasoline have with WTI prices. Prices have been stuck near $40/BBL since prices bounced back after the April crash. For more information on crude storage vist my link below.<p>
   
 <b> Price Impacts From Cude Storage <b><p>
 https://www.linkedin.com/pulse/price-impacts-from-crude-storage-shawn-jamal/?trackingId=a%2FoH27YmqkNMbJIrQEBHQQ%3D%3D <p>
@@ -67,7 +67,7 @@ Due to recent exports of natural gas, a decrease of drilling in the Appalachian 
 </p>
 
 
-The graph above shows how natural gas exports have risen over the years. Korea, China, and Japan are the biggest natural gas imports for the US. China has refrained from buying vast amounts of natural gas due to trade conflicts with the US and Turkey has been drilling on their coastal boarder with Greece trying to develop gas fields in the Mediteranian. China has begun to allow more natural gas imports into the country and the link below makes an indepth analysis of their future market.<p>
+The graph above shows how natural gas exports have risen over the years. Korea, China, and Japan are the biggest natural gas imports for the US. China has refrained from buying vast amounts of natural gas due to trade conflicts with the US and Turkey has been drilling on their coastal boarder with Greece trying to develop gas fields in the Mediteranian. China has begun to allow more natural gas imports into the country and my link below makes an indepth analysis of their future market. <p>
   
 <b>China's Natural Gas Imports <b> <p>
 https://www.linkedin.com/pulse/chinas-natural-gas-imports-shawn-jamal/?trackingId=li0Zy0L7swttzD33jILFDw%3D%3D <p>
@@ -95,7 +95,7 @@ The pie chart above shows the percent of DUCs in each region in the US. The Perm
   <img src="DUC_Images/Line_Graph_Permian_EF_Bakken.png" width="700">
 </p>
 
-The number of DUCs in the Permian took off in 2015 as prices dropped from historic highs and has remained constant in the next big shale plays. If history is any indication then DUCs will continue to rise until prices begin to climb. One thing that will keep a lid on the number of DUCs around the country is that oil companies do not have as many long term contracts with drilling companies allowing them to break current contracts and drop rigs. This is one of the reason why the rig count has hit historic lows around the country. For more on DUCs visit the link below.<p>
+The number of DUCs in the Permian took off in 2015 as prices dropped from historic highs and has remained constant in the next big shale plays. If history is any indication then DUCs will continue to rise until prices begin to climb. One thing that will keep a lid on the number of DUCs around the country is that oil companies do not have as many long term contracts with drilling companies allowing them to break current contracts and drop rigs. This is one of the reason why the rig count has hit historic lows around the country. For more on DUCs visit my link below.<p>
   
 <b> Election Impact On The DUC Inventory In America <b> <p>
 https://www.linkedin.com/pulse/election-impact-duc-inventory-shawn-jamal/?trackingId=MJYml0qeR%2F%2Bt0hue99YQsg%3D%3D <p>
