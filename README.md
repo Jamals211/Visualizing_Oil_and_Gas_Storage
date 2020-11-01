@@ -49,7 +49,9 @@ Crude storage has decline 50 MMBBLs and gasoline storage has declined 30 MMBBLs 
   <img src="Crude_Storage_Images/Crude_vs_Gasoline_Storage_API.png" width="700">
 </p>
 
-Demand for crude is expected to remain low in the winter after the summer driving months are over. Demand for natural gas rises in the winter due to the need for heating. Due to recent exports of natural gas, a decrease in the Appalachian region, and current political problems impacting the drilling in Wyoming, it is expected that natural gas prices will begin to rise in the winter.
+Demand for crude is expected to remain low in the winter after the summer driving months are over. Demand for natural gas rises in the winter due to the need for heating. From 2016 to 2017 and 2017 to 2018, crude storage and gasoline has dropped as the year went on only to rise in the winter when demand dropped off. In 2018, 2019 and 2020 OPEC+ have flooded the market in the winter putting a lid on prices to prevent shale drillers from ramping up production. <p>
+
+Due to recent exports of natural gas, a decrease of drilling in the Appalachian region, and current political trends impacting the drilling in Wyoming, it is expected that natural gas prices will begin to rise in the winter.
 
 <p align="center">
   <img src="Imports_By_Country_Images/Korean_Gas_Imports.png" width="700">
