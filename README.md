@@ -67,7 +67,7 @@ Due to recent exports of natural gas, a decrease of drilling in the Appalachian 
 </p>
 
 
-The graph above shows how natural gas exports have risen over the years. Korea, China, and Japan are the biggest natural gas imports for the US. China has refrained from buying vast amounts of natural gas due to trade conflicts with the US and Turkey has been drilling on their coastal boarder with Greece trying to develop gas fields in the Mediteranian. China has begun to allow more natural gas imports into the country and my link below makes an indepth analysis of their future market. <p>
+The graph above shows how natural gas exports have risen over the years. Korea, China, and Japan are the biggest natural gas imports for the US. China has refrained from buying vast amounts of natural gas due to trade conflicts with the US and Turkey has been drilling on their coastal boarder with Greece trying to develop gas fields in the Mediteranian. China has begun to allow more natural gas imports into the country and for an indepth look at their future market visit the link below. <p>
   
   ***[China's Natural Gas Imports](https://www.linkedin.com/pulse/chinas-natural-gas-imports-shawn-jamal/?trackingId=li0Zy0L7swttzD33jILFDw%3D%3D)***
 
