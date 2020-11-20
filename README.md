@@ -49,8 +49,8 @@ Crude storage peaked in 2020 as prices dipped below zero and bottomed out at -$4
 </p>
 The graph above shows the relationship crude oil and gasoline have with WTI prices. Prices have been stuck near $40/BBL since prices bounced back after the April crash. For more information on crude storage vist my link below.<p>
   
-<b> Price Impacts From Cude Storage <b><p>
-https://www.linkedin.com/pulse/price-impacts-from-crude-storage-shawn-jamal/?trackingId=a%2FoH27YmqkNMbJIrQEBHQQ%3D%3D <p>
+ 
+   ***[Price Impacts From Cude Storage](https://www.linkedin.com/pulse/price-impacts-from-crude-storage-shawn-jamal/?trackingId=a%2FoH27YmqkNMbJIrQEBHQQ%3D%3D)***
 
 Crude storage has decline 50 MMBBLs and gasoline storage has declined 30 MMBBLs since April of 2020. While inventories have steadily declined, the price of crude has stagnated at $40/BBL. Crude will need to drop another 100 MMBBLs for prices to rise to the $60 to $70 range and at this time OPEC+ will likely increase supply to balance the market in 2021. Gasoline storage will drop until November when demand goes down and refiners begin to buy more crude.
 
@@ -69,8 +69,7 @@ Due to recent exports of natural gas, a decrease of drilling in the Appalachian 
 
 The graph above shows how natural gas exports have risen over the years. Korea, China, and Japan are the biggest natural gas imports for the US. China has refrained from buying vast amounts of natural gas due to trade conflicts with the US and Turkey has been drilling on their coastal boarder with Greece trying to develop gas fields in the Mediteranian. China has begun to allow more natural gas imports into the country and my link below makes an indepth analysis of their future market. <p>
   
-<b>China's Natural Gas Imports <b> <p>
-https://www.linkedin.com/pulse/chinas-natural-gas-imports-shawn-jamal/?trackingId=li0Zy0L7swttzD33jILFDw%3D%3D <p>
+  ***[China's Natural Gas Imports](https://www.linkedin.com/pulse/chinas-natural-gas-imports-shawn-jamal/?trackingId=li0Zy0L7swttzD33jILFDw%3D%3D)***
 
 
 OPEC+ will continue to curb supply until 2021 when they will see prices begin to rise. If prices rise, the organization will likely reduce cuts and flood the market like they have done in 2018, 2019, and 2020. The organization has indicated that it release more crude oil on January 1st but this is unlikely due to low prices. They will likely reduce cuts to approximately 6MMBPD in the spring as crude prices begin to rise.<p>
@@ -97,5 +96,5 @@ The pie chart above shows the percent of DUCs in each region in the US. The Perm
 
 The number of DUCs in the Permian took off in 2015 as prices dropped from historic highs and has remained constant in the next big shale plays. If history is any indication then DUCs will continue to rise until prices begin to climb. One thing that will keep a lid on the number of DUCs around the country is that oil companies do not have as many long term contracts with drilling companies allowing them to break current contracts and drop rigs. This is one of the reason why the rig count has hit historic lows around the country. For more on DUCs visit my link below.<p>
   
-<b> Election Impact On The DUC Inventory In America <b> <p>
-https://www.linkedin.com/pulse/election-impact-duc-inventory-shawn-jamal/?trackingId=MJYml0qeR%2F%2Bt0hue99YQsg%3D%3D <p>
+  ***[Election Impact On The DUC Inventory In America](https://www.linkedin.com/pulse/election-impact-duc-inventory-shawn-jamal/?trackingId=MJYml0qeR%2F%2Bt0hue99YQsg%3D%3D)***
+
