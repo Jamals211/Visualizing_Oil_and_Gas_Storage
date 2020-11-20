@@ -37,7 +37,7 @@ The election is too close to call and it is unclear what will happen after the e
   
 Natural gas demand will increase due to exports to Asia and the declining well count in the Appalachian and Barnet plays. Higher prices in the US will keep a lid on exports but China's growing consumption of natural gas and their rift with Australia will buoy exports. <p>
   
-The price for WTI will average below $50/BBL for 2021 and will likely be below $45/BBL before the summer driving season depending on when OPEC+ will reduce supply cuts and the demand over the summer. Prices for gasoline, diesel, jet fuel and bunker fuel will be uneven. With the lockdown, gasoline will be in more demand and build ups of diesel and jet fuel will require more storage until the summer. Natural gas may fluctuate, especially if there is a cold winter in 2020/2021 but prices will rise in the long term. <p>
+The price for WTI will average below $50/BBL for 2021 and will likely be below $45/BBL before the summer driving season depending on when OPEC+ will reduce supply cuts and the demand over the summer. Prices for gasoline, diesel, jet fuel and bunker fuel will be uneven. With the lockdown, gasoline will be in more demand than diesel and jet fuel which will require more storage until the summer. Refiners may not buy as much crude oil to refine into gasoline which means the diesel and jet fuel overhang may dimish but demand is uncertain in the spring of 2021. <p>
 
 # Summary
 ## Crude And Natural Gas Storage
