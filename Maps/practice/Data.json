@@ -1,0 +1,386 @@
+{
+    "schema": {
+        "fields": [
+            {
+                "name": "index",
+                "type": "integer"
+            },
+            {
+                "name": "PlaceName",
+                "type": "string"
+            },
+            {
+                "name": "Latitude",
+                "type": "number"
+            },
+            {
+                "name": "Longitude",
+                "type": "number"
+            },
+            {
+                "name": "Production",
+                "type": "number"
+            },
+            {
+                "name": "Production",
+                "type": "number"
+            }
+        ],
+        "primaryKey": [
+            "index"
+        ],
+        "pandas_version": "0.20.0"
+    },
+    "data": [
+        {
+            "index": 0,
+            "PlaceName": "Wisconsin, the USA",
+            "Latitude": 44.5,
+            "Longitude": -89.5,
+            "Production": 0.0
+        },
+        {
+            "index": 1,
+            "PlaceName": "West Virginia, the US",
+            "Latitude": 39.0,
+            "Longitude": -80.5,
+            "Production": 1615.0
+        },
+        {
+            "index": 2,
+            "PlaceName": "Vermont, the USA",
+            "Latitude": 44.0,
+            "Longitude": -72.699997,
+            "Production": 0.0
+        },
+        {
+            "index": 3,
+            "PlaceName": "Texas, the USA",
+            "Latitude": 31.0,
+            "Longitude": -100.0,
+            "Production": 145289.0
+        },
+        {
+            "index": 4,
+            "PlaceName": "South Dakota, the US",
+            "Latitude": 44.5,
+            "Longitude": -100.0,
+            "Production": 85.0
+        },
+        {
+            "index": 5,
+            "PlaceName": "Rhode Island, the US",
+            "Latitude": 41.700001,
+            "Longitude": -71.5,
+            "Production": 0.0
+        },
+        {
+            "index": 6,
+            "PlaceName": "Oregon, the US",
+            "Latitude": 44.0,
+            "Longitude": -120.5,
+            "Production": 0.0
+        },
+        {
+            "index": 7,
+            "PlaceName": "New York, the US",
+            "Latitude": 43.0,
+            "Longitude": -75.0,
+            "Production": 23.0
+        },
+        {
+            "index": 8,
+            "PlaceName": "New Hampshire, the US",
+            "Latitude": 44.0,
+            "Longitude": -71.5,
+            "Production": 0.0
+        },
+        {
+            "index": 9,
+            "PlaceName": "Nebraska, the US",
+            "Latitude": 41.5,
+            "Longitude": -100.0,
+            "Production": 156.0
+        },
+        {
+            "index": 10,
+            "PlaceName": "Kansas, the US",
+            "Latitude": 38.5,
+            "Longitude": -98.0,
+            "Production": 2322.0
+        },
+        {
+            "index": 11,
+            "PlaceName": "Mississippi, the US",
+            "Latitude": 33.0,
+            "Longitude": -90.0,
+            "Production": 1239.0
+        },
+        {
+            "index": 12,
+            "PlaceName": "Illinois, the US",
+            "Latitude": 40.0,
+            "Longitude": -89.0,
+            "Production": 619.0
+        },
+        {
+            "index": 13,
+            "PlaceName": "Delaware, the US",
+            "Latitude": 39.0,
+            "Longitude": -75.5,
+            "Production": 0.0
+        },
+        {
+            "index": 14,
+            "PlaceName": "Connecticut, the US",
+            "Latitude": 41.599998,
+            "Longitude": -72.699997,
+            "Production": 0.0
+        },
+        {
+            "index": 15,
+            "PlaceName": "Arkansas, the US",
+            "Latitude": 34.799999,
+            "Longitude": -92.199997,
+            "Production": 326.0
+        },
+        {
+            "index": 16,
+            "PlaceName": "Indiana, USA",
+            "Latitude": 40.273502,
+            "Longitude": -86.126976,
+            "Production": 122.0
+        },
+        {
+            "index": 17,
+            "PlaceName": "Missouri, USA",
+            "Latitude": 38.573936,
+            "Longitude": -92.60376,
+            "Production": 6.0
+        },
+        {
+            "index": 18,
+            "PlaceName": "Florida, USA",
+            "Latitude": 27.994402,
+            "Longitude": -81.760254,
+            "Production": 91.0
+        },
+        {
+            "index": 19,
+            "PlaceName": "Nevada, USA",
+            "Latitude": 39.876019,
+            "Longitude": -117.224121,
+            "Production": 20.0
+        },
+        {
+            "index": 20,
+            "PlaceName": "Maine, the USA",
+            "Latitude": 45.367584,
+            "Longitude": -68.972168,
+            "Production": 0.0
+        },
+        {
+            "index": 21,
+            "PlaceName": "Michigan, USA",
+            "Latitude": 44.182205,
+            "Longitude": -84.506836,
+            "Production": 379.0
+        },
+        {
+            "index": 22,
+            "PlaceName": "Georgia, the USA",
+            "Latitude": 33.247875,
+            "Longitude": -83.441162,
+            "Production": 0.0
+        },
+        {
+            "index": 23,
+            "PlaceName": "Hawaii, USA",
+            "Latitude": 19.741755,
+            "Longitude": -155.844437,
+            "Production": 0.0
+        },
+        {
+            "index": 24,
+            "PlaceName": "Alaska, USA",
+            "Latitude": 66.160507,
+            "Longitude": -153.369141,
+            "Production": 13751.0
+        },
+        {
+            "index": 25,
+            "PlaceName": "Tennessee, USA",
+            "Latitude": 35.860119,
+            "Longitude": -86.660156,
+            "Production": 14.0
+        },
+        {
+            "index": 26,
+            "PlaceName": "Virginia, USA",
+            "Latitude": 37.926868,
+            "Longitude": -78.024902,
+            "Production": 0.0
+        },
+        {
+            "index": 27,
+            "PlaceName": "New Jersey, USA",
+            "Latitude": 39.833851,
+            "Longitude": -74.871826,
+            "Production": 0.0
+        },
+        {
+            "index": 28,
+            "PlaceName": "Kentucky, USA",
+            "Latitude": 37.839333,
+            "Longitude": -84.27002,
+            "Production": 225.0
+        },
+        {
+            "index": 29,
+            "PlaceName": "North Dakota, USA",
+            "Latitude": 47.650589,
+            "Longitude": -100.437012,
+            "Production": 35812.0
+        },
+        {
+            "index": 30,
+            "PlaceName": "Minnesota, USA",
+            "Latitude": 46.39241,
+            "Longitude": -94.63623,
+            "Production": 0.0
+        },
+        {
+            "index": 31,
+            "PlaceName": "Oklahoma, the USA",
+            "Latitude": 36.084621,
+            "Longitude": -96.921387,
+            "Production": 14250.0
+        },
+        {
+            "index": 32,
+            "PlaceName": "Montana, USA",
+            "Latitude": 46.96526,
+            "Longitude": -109.533691,
+            "Production": 1597.0
+        },
+        {
+            "index": 33,
+            "PlaceName": "Washington State, the USA",
+            "Latitude": 47.751076,
+            "Longitude": -120.740135,
+            "Production": 0.0
+        },
+        {
+            "index": 34,
+            "PlaceName": "Utah, USA",
+            "Latitude": 39.41922,
+            "Longitude": -111.950684,
+            "Production": 2783.0
+        },
+        {
+            "index": 35,
+            "PlaceName": "Colorado, USA",
+            "Latitude": 39.113014,
+            "Longitude": -105.358887,
+            "Production": 13779.0
+        },
+        {
+            "index": 36,
+            "PlaceName": "Ohio, USA",
+            "Latitude": 40.367474,
+            "Longitude": -82.996216,
+            "Production": 2068.0
+        },
+        {
+            "index": 37,
+            "PlaceName": "Alabama, USA",
+            "Latitude": 32.31823,
+            "Longitude": -86.902298,
+            "Production": 309.0
+        },
+        {
+            "index": 38,
+            "PlaceName": "Iowa, the USA",
+            "Latitude": 42.032974,
+            "Longitude": -93.581543,
+            "Production": 0.0
+        },
+        {
+            "index": 39,
+            "PlaceName": "New Mexico, USA",
+            "Latitude": 34.307144,
+            "Longitude": -106.018066,
+            "Production": 31464.0
+        },
+        {
+            "index": 40,
+            "PlaceName": "South Carolina, USA",
+            "Latitude": 33.836082,
+            "Longitude": -81.163727,
+            "Production": 0.0
+        },
+        {
+            "index": 41,
+            "PlaceName": "Pennsylvania, USA",
+            "Latitude": 41.203323,
+            "Longitude": -77.194527,
+            "Production": 428.0
+        },
+        {
+            "index": 42,
+            "PlaceName": "Arizona, USA",
+            "Latitude": 34.048927,
+            "Longitude": -111.093735,
+            "Production": 1.0
+        },
+        {
+            "index": 43,
+            "PlaceName": "Maryland, USA",
+            "Latitude": 39.045753,
+            "Longitude": -76.641273,
+            "Production": 0.0
+        },
+        {
+            "index": 44,
+            "PlaceName": "Massachusetts, USA",
+            "Latitude": 42.407211,
+            "Longitude": -71.382439,
+            "Production": 0.0
+        },
+        {
+            "index": 45,
+            "PlaceName": "California, the USA",
+            "Latitude": 36.778259,
+            "Longitude": -119.417931,
+            "Production": 11796.0
+        },
+        {
+            "index": 46,
+            "PlaceName": "Idaho, USA",
+            "Latitude": 44.068203,
+            "Longitude": -114.742043,
+            "Production": 0.0
+        },
+        {
+            "index": 47,
+            "PlaceName": "Wyoming, USA",
+            "Latitude": 43.07597,
+            "Longitude": -107.290283,
+            "Production": 7462.0
+        },
+        {
+            "index": 48,
+            "PlaceName": "North Carolina, USA",
+            "Latitude": 35.782169,
+            "Longitude": -80.793457,
+            "Production": 0.0
+        },
+        {
+            "index": 49,
+            "PlaceName": "Louisiana, USA",
+            "Latitude": 30.39183,
+            "Longitude": -92.329102,
+            "Production": 2635.0
+        }
+    ]
+}
