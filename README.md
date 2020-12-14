@@ -97,4 +97,4 @@ The pie chart above shows the percent of DUCs in each region in the US. The Perm
 The number of DUCs in the Permian took off in 2015 as prices dropped from historic highs and has remained constant in the next big shale plays. If history is any indication then DUCs will continue to rise until prices begin to climb. One thing that will keep a lid on the number of DUCs around the country is that oil companies do not have as many long term contracts with drilling companies allowing them to break current contracts and drop rigs. This is one of the reason why the rig count has hit historic lows around the country. For more on DUCs visit my link below.<p>
   
   ***[Election Impact On The DUC Inventory In America](https://www.linkedin.com/pulse/election-impact-duc-inventory-shawn-jamal/?trackingId=MJYml0qeR%2F%2Bt0hue99YQsg%3D%3D)***
-
+ 
